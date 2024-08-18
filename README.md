@@ -45,7 +45,7 @@ To run this project, you need to have Git and Node.js installed on your computer
 4. Start the development server:
 
    ```bash
-   npm start
+   npm start or npm run dev
 
 5. Open your browser and navigate to http://localhost:3000.   
 
