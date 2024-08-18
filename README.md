@@ -24,7 +24,7 @@ This is a simple React application that allows users to search for information a
 2. Navigate to the project directory:
 
    ```bash
-    cd country-info-app
+    cd Country-Information
 
 3. Install the dependencies:
   
