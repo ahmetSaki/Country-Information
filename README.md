@@ -16,15 +16,26 @@ This is a simple React application that allows users to search for information a
 - **CSS**: Used for basic styling.
 
 ## Installation and Setup
+
+To run this project, you need to have Git and Node.js installed on your computer.
+
+### Prerequisites
+
+- **Git**: Required for cloning the repository. If Git is not installed, download and install it from[Git's official website](https://git-scm.com/).
+
+- **Node.js**: Required for running the development server and managing dependencies. It includes npm (Node Package Manager). If Node.js is not installed, download and install it from [Node.js's official website](https://nodejs.org/).
+
+### Steps to Run the Project
+
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/ahmetSaki/Country-Information.git
+   git clone https://github.com/your-username/country-info-app.git
 
 2. Navigate to the project directory:
 
    ```bash
-    cd Country-Information
+    cd country-info-app
 
 3. Install the dependencies:
   
@@ -34,7 +45,7 @@ This is a simple React application that allows users to search for information a
 4. Start the development server:
 
    ```bash
-   npm run dev
+   npm start
 
 5. Open your browser and navigate to http://localhost:3000.   
 
