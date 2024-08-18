@@ -18,6 +18,20 @@ This is a simple React application that allows users to search for information a
 ## Installation and Setup
 
 1. Navigate to the project directory:
+    cd country-info-app
 
-   ```bash
-   cd country-info-app
+2. Install the dependencies:
+   npm install 
+
+3. Start the development server:
+   npm start
+
+4. Open your browser and navigate to http://localhost:3000.   
+
+## Usage
+ - Enter the name of a country in the input field and click the "Search" button.
+ - If the country is found, its details will be displayed on the screen.
+ - If the country is not found, an error message will appear.
+
+
+
