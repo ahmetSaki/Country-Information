@@ -19,7 +19,7 @@ This is a simple React application that allows users to search for information a
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/country-info-app.git
+   git clone https://github.com/ahmetSaki/Country-Information.git
 
 2. Navigate to the project directory:
 
