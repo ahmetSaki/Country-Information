@@ -34,7 +34,7 @@ This is a simple React application that allows users to search for information a
 4. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
 
 5. Open your browser and navigate to http://localhost:3000.   
 
