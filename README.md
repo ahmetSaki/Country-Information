@@ -16,23 +16,27 @@ This is a simple React application that allows users to search for information a
 - **CSS**: Used for basic styling.
 
 ## Installation and Setup
+1. Clone the repository to your local machine:
 
-1. Navigate to the project directory:
+   ```bash
+   git clone https://github.com/your-username/country-info-app.git
+
+2. Navigate to the project directory:
 
    ```bash
     cd country-info-app
 
-2. Install the dependencies:
+3. Install the dependencies:
   
    ```bash
    npm install 
 
-3. Start the development server:
+4. Start the development server:
 
    ```bash
    npm start
 
-4. Open your browser and navigate to http://localhost:3000.   
+5. Open your browser and navigate to http://localhost:3000.   
 
 ## Usage
  - Enter the name of a country in the input field and click the "Search" button.
