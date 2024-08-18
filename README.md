@@ -18,6 +18,8 @@ This is a simple React application that allows users to search for information a
 ## Installation and Setup
 
 1. Navigate to the project directory:
+
+   ```bash
     cd country-info-app
 
 2. Install the dependencies:
